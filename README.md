@@ -1,2 +1,3 @@
 # ppp
-example
+
+mvn archetype:generate -DgroupId=com.omp DartifactId=webapp1 -Dversion=1.0 -DarchetypeArtifactId=maven-archetype-webapp
